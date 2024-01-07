@@ -15,6 +15,7 @@
 | alpaca-gpt4 (HF) | Falcon-1B | Full Fine Tuning + DeepSpeed Integration (T4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SASAU32EGx8vZ2XMOSVtuZHEUPI4QfG7?usp=sharing) |
 | Pubmed_qa | Llama-2-7B-chat | Peft (T4) - SFT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rF79ALujxdW-fgxD65PSFmdWyY0sZ_dc?usp=sharing) |
 | Custom CSV | Llama-2-7B-chat | Peft (T4) - SFT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EaSgGjWStDrwTJKPVi8a11Cj7rJS3C0b?usp=sharing) |
+| codeparrot-train | GPT-J-6B  | PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ft6wQU0BhqG5PRlwgaZJv2VukKKjU4Es?usp=sharing) |
 
 ### Language Models [Tasks: Text Classification]
 
